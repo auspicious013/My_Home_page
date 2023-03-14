@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(https://scontent.fcrk2-2.fna.fbcdn.net/v/t39.30808-6/270424527_7064693350222457_5998015194120767371_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHCSCl06pphfWpCEYOea9jGlsYDadTbjHaWxgNp1NuMds1ylxYGaMM61YZpPpPQihUix30mq15sCGRd5phCECzy&_nc_ohc=sC4y4m1OUs0AX-neDux&_nc_ht=scontent.fcrk2-2.fna&oh=00_AfAM-OZF-hV-rkCIAMZ7lqzrTHgExMHQv8KaCb5aE2tvUw&oe=640D480B);
+  background-repeat: no-repeat;
+  background-size: cover;
+</style>
+</head>
+<body>
+<!--ITAD-CAPARAS-ADRIAN PAULO G.-->
+<h1 align="left">WELCOME TO HOMEPAGE</h1>
+<br><br><br>
+<a href="https://codepen.io/DIABOLIC-CODER/pen/JjaJqdO">MY RESUME</a><br />
+<br><br>
+<a href="https://codepen.io/DIABOLIC-CODER/pen/KKxXvgB">ABOUT ME</a><br />
+<br><br>
+<a href="https://codepen.io/DIABOLIC-CODER/pen/yLxywpr">SKILLS, HOBBIES & INTEREST</a><br />
